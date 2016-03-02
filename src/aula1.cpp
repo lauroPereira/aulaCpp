@@ -3,12 +3,12 @@
 //Namespaces
 using namespace std;
 namespace x{
-	string e = "Hello", f = "World", g = "!!!";
+	string e = "Hello", f = "World", g = "!";
 }
 
 int main() {
 	//Declaração de variáveis
-	string a = "Hello", b = "World", c = "!!!";
+	string a = "Hello", b = "World", c = "!";
 
 	//Cast de variáveis
 		//static_cast<char>(c);/*Conversão simples de tipos primários*/
